@@ -1,98 +1,100 @@
 {
-  "name": "Estefania Arriaga",
-  "position": "Software developer SR.",
-  "objective": "Empower women and help people get themself",
-  "experience": [
-    {
-      "enterprise": "EMS",
-      "date": "2015-2016",
-      "position": "Web Developer Jr.",
-      "task": [
-        "Develop a educational web system",
-        [
-          "Analyze",
-          "design",
-          "develop and implement",
-          "test and evaluate new modules according to the new client requirements"
-        ],
-        [
-          "Implement security mechanisms to avoid DoS and SQL injections."
+  "resume": {
+    "name": "Estefania Arriaga",
+    "position": "Software developer SR.",
+    "objective": "Empower women and help people get themself",
+    "experience": [
+      {
+        "enterprise": "EMS",
+        "date": "2015-2016",
+        "position": "Web Developer Jr.",
+        "task": [
+          "Develop a educational web system",
+          [
+            "Analyze",
+            "design",
+            "develop and implement",
+            "test and evaluate new modules according to the new client requirements"
+          ],
+          [
+            "Implement security mechanisms to avoid DoS and SQL injections."
+          ]
         ]
-      ]
-    },
-    {
-      "enterprise": "SEP",
-      "date": "2016-To Date",
-      "position": "\"IT Consultant\"",
-      "task": [
-        "Analyze",
-        [
-          "Propose solutions to the client requirements"
-        ],
-        [
-          "Take part in all System life development cycle"
-        ],
-        "implement",
-        "testing and give support to the correspondence system"
-      ]
-    }
-  ],
-  "technologies": [
-    "Java",
-    [
-      "Spring core"
+      },
+      {
+        "enterprise": "SEP",
+        "date": "2016-To Date",
+        "position": "\"IT Consultant\"",
+        "task": [
+          "Analyze",
+          [
+            "Propose solutions to the client requirements"
+          ],
+          [
+            "Take part in all System life development cycle"
+          ],
+          "implement",
+          "testing and give support to the correspondence system"
+        ]
+      }
     ],
-    [
-      "Kotlin"
-    ],
-    [
-      "Android"
-    ],
-    [
-      "Angular"
-    ],
-    [
-      "Github"
-    ]
-  ],
-  "language": [
-    "Native Spanish",
-    [
-      "Advanced English"
-    ],
-    null,
-    [
-      "Basic French"
-    ]
-  ],
-  "Education": {
-    "bachelor": "Computer Engineering",
-    "master": "Project Management",
-    "course": [
-      "Game development in Unity",
+    "technologies": [
+      "Java",
       [
-        "Spring Framework 5"
-      ],
-      [
-        "AWS Educate"
+        "Spring core"
       ],
       [
         "Kotlin"
+      ],
+      [
+        "Android"
+      ],
+      [
+        "Angular"
+      ],
+      [
+        "Github"
       ]
     ],
-    "certification": [
-      {
-        "name": "TOEFL ITP",
-        "img": "https://raw.githubusercontent.com/EstefaniaAR/resources/master/toefl%20itp.jpg"
-      },
-      {
-        "name": "Android Certified Professional",
-        "img": ""
-      },
-      {
-        "name": "Java 7 Associate Programmer",
-        "img": "https://raw.githubusercontent.com/EstefaniaAR/resources/master/OCA_JavaSE7Programmer_clr.png"
-      }
-    ]
+    "language": [
+      "Native Spanish",
+      [
+        "Advanced English"
+      ],
+      null,
+      [
+        "Basic French"
+      ]
+    ],
+    "Education": {
+      "bachelor": "Computer Engineering",
+      "master": "Project Management",
+      "course": [
+        "Game development in Unity",
+        [
+          "Spring Framework 5"
+        ],
+        [
+          "AWS Educate"
+        ],
+        [
+          "Kotlin"
+        ]
+      ],
+      "certification": [
+        {
+          "name": "TOEFL ITP",
+          "img": "https://raw.githubusercontent.com/EstefaniaAR/resources/master/toefl%20itp.jpg"
+        },
+        {
+          "name": "Android Certified Professional",
+          "img": ""
+        },
+        {
+          "name": "Java 7 Associate Programmer",
+          "img": "https://raw.githubusercontent.com/EstefaniaAR/resources/master/OCA_JavaSE7Programmer_clr.png"
+        }
+      ]
+    }
   }
 }
